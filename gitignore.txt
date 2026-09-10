@@ -1,0 +1,13 @@
+# Simulation artifacts
+*.wlf
+*.mpf
+*.mti
+*.vstf
+*.vcd
+vsim.wlf
+transcript
+work/
+
+# System / OS files
+.DS_Store
+Thumbs.db
