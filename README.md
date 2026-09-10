@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Language: Verilog / SystemVerilog](https://img.shields.io/badge/Language-Verilog%20%2F%20SystemVerilog-blue)](https://en.wikipedia.org/wiki/Verilog)
 
-A complete implementation of a 32-bit RISC-V (RV32I) processor designed in Verilog and SystemVerilog. This repository contains both single-cycle and 5-stage pipelined microarchitectures with hazard handling and forwarding units, prepared as part of the **IEEE CUSB Digital Design Workshop**.
+A complete implementation of a 32-bit RISC-V (RV32I) processor designed in Verilog and SystemVerilog. This repository contains both single-cycle and 5-stage pipelined microarchitectures with hazard handling and forwarding units, prepared as part of the **NTI FPGA Course**.
 
 ---
 
